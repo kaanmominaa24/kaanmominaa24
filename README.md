@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Momina Khan</h1>
+<h1 align="center">Hi 👋, I'm Mominaa Kaan</h1>
 
 <h3 align="center">
 🚀 CAARE 2026 Candidate | Agentic AI • Robotics • Quantitative Finance • High-Frequency Trading (HFT) Learner 🇵🇰
