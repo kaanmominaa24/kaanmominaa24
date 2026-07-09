@@ -126,7 +126,7 @@ My long-term vision is to build **AI-powered financial systems, autonomous robot
 ---
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=khanmomina884&theme=onedark&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kaanmomina24&theme=onedark&row=1&column=7"/>
 </p>
 
 ---
